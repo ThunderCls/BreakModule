@@ -10,6 +10,7 @@
 TList *lstBreakInfo;
 //---------------------------------------------------------------------------
 /* global functions pointers */
+/* sample */
 //---------------------------------------------------------------------------
 _DebugSetBreakpoint DebugSetBreakpoint;
 _DebugDeleteBreakpoint DebugDeleteBreakpoint;
